@@ -69,7 +69,7 @@ go build -o fad main.go
 ./fad -proxy http://proxy.company.com:8080 https://example.com/file.zip
 ```
 
-## 📡 FTP Downloads
+### 📡 FTP Downloads
 
 ```bash
 # Standard FTP
