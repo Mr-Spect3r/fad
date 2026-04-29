@@ -6,6 +6,15 @@
 
 A powerful, multi-threaded downloader with support for **HTTP/HTTPS**, **FTP/FTPS**, **proxy connections**, and **smart resume capabilities**. Built for speed and reliability.
 
+## 📸 Screenshots
+
+| Feature | Preview |
+|---------|---------|
+| **Normal Download** | ![Normal](https://s8.uupload.ir/files/screenshot_2026-04-28_152144_7a1f.png) |
+| **Web Scraping** | ![Scraping](https://s8.uupload.ir/files/screenshot_2026-04-28_150655_3mch.png) |
+| **Capabilities** | ![Capabilities](https://s8.uupload.ir/files/screenshot_2026-04-28_150815_bhkv.png) |
+| **Progress Bars** | ![Progress](https://s8.uupload.ir/files/screenshot_2026-04-20_145118_yc3v.png) |
+
 ## ✨ Features
 
 - 🧵 **Multi-threaded downloads** - Maximize bandwidth utilization
