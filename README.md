@@ -40,7 +40,7 @@ go build -o fad main.go
 
 ## 📸 Screenshots
 
-![Download Demo](https://dl.toolschi.com/view.php?f=8a5d86aed78dfc79.png)
+<img src="https://dl.toolschi.com/view.php?f=8a5d86aed78dfc79.png">
 
 ## 🚀 Quick Start
 
