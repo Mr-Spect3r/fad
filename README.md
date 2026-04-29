@@ -36,12 +36,6 @@ cd fad
 go build -o fad main.go
 ```
 
-## 📸 Screenshots
-
-## 📸 Screenshots
-
-<img src="https://github.com/Mr-Spect3r/fad/blob/main/sc/normal.png">
-
 ## 🚀 Quick Start
 
 ### Basic Usage
