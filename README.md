@@ -36,9 +36,6 @@ cd fad
 go build -o fad main.go
 ```
 
-### Pre-built Binaries
-Download from Releases page
-
 ## 🚀 Quick Start
 
 ### Basic Usage
