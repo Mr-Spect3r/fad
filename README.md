@@ -40,7 +40,7 @@ go build -o fad main.go
 
 ## 📸 Screenshots
 
-<img src="https://up.20script.ir/file/4e8b-Screenshot-2026-04-28-152144.png">
+<img src="https://github.com/Mr-Spect3r/fad/blob/main/sc/normal.png">
 
 ## 🚀 Quick Start
 
