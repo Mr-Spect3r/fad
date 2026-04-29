@@ -20,6 +20,15 @@ A powerful, multi-threaded downloader with support for **HTTP/HTTPS**, **FTP/FTP
 - 🎨 **Beautiful progress bars** - Real-time visual feedback
 - 🌍 **Cross-platform** - Windows, Linux, macOS
 
+## 📸 Screenshots
+
+| Feature | Preview |
+|---------|---------|
+| **Normal Download** | ![Normal](https://up.20script.ir/file/4e8b-Screenshot-2026-04-28-152144.png) |
+| **Web Scraping** | ![Scraping](https://up.20script.ir/file/4e8b-Screenshot-2026-04-28-150655.png) |
+| **Capabilities** | ![Capabilities](https://up.20script.ir/file/6fd4-Screenshot-2026-04-28-150815.png) |
+| **Progress Bars** | ![Progress](https://up.20script.ir/file/c7d1-Screenshot-2026-04-20-145118.png) |
+
 ## 📦 Installation
 
 ### Direct installation
