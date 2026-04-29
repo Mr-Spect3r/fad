@@ -31,7 +31,7 @@ go install github.com/Mr-Spect3r/fad@latest
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/fad.git
+git clone https://github.com/Mr-Spect3r/fad.git
 cd fad
 go build -o fad main.go
 ```
