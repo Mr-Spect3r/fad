@@ -22,12 +22,7 @@ A powerful, multi-threaded downloader with support for **HTTP/HTTPS**, **FTP/FTP
 
 ## 📸 Screenshots
 
-| Feature | Preview |
-|---------|---------|
-| **Normal Download** | ![Normal](https://github.com/user-attachments/assets/e1cd29f0-2d04-4af2-9e71-0d1492fc3aba) |
-| **Web Scraping** | ![Scraping](https://github.com/user-attachments/assets/48a0409b-8bea-48bf-93ee-fa4e2f66f32d) |
-| **Capabilities** | ![Capabilities](https://github.com/user-attachments/assets/3c39c0be-3e9e-4004-8d75-58962bd90158) |
-| **Progress Bars** | ![Progress](https://github.com/user-attachments/assets/826d5701-1f31-4992-97c0-89545386b083) |
+<img src="https://github.com/user-attachments/assets/e1cd29f0-2d04-4af2-9e71-0d1492fc3aba">
 
 ## 📦 Installation
 
